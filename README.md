@@ -1,6 +1,6 @@
 ## Hi there 👋,
-I’m currently learning at HCMUS
-I’m looking for help with c++
+- I’m currently learning at HCMUS
+- I’m looking for help with c++
 <!--
 **HenryNguyn/HenryNguyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
